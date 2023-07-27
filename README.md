@@ -14,7 +14,7 @@ The Reddit News Discord Bot is a Python-based bot that fetches and shares the la
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/reddit-news-discord-bot.git
+   git clone https://github.com/samridh10exe/Reddit-News-Discord-Bot.git
    ```
 
 2. Install the required Python libraries using pip:
